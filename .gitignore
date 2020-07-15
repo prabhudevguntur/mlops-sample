@@ -1,4 +1,5 @@
 # data
 housing.csv
+housing.code-workspace
 *.tgz
 *.pkl
